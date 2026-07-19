@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio UI" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq Compute" />
-  <img src="https://img.shields.io/badge/Deepgram-00A3E0?style=for-the-badge" alt="Deepgram TTS" />
-  <img src="https://img.shields.io/badge/Package_Manager-uv-DE5D83?style=for-the-badge" alt="uv package manager" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq Compute" />
+  <img src="https://img.shields.io/badge/Deepgram-00A3E0?style=for-the-badge&logo=deepgram&logoColor=white" alt="Deepgram TTS" />
+  <img src="https://img.shields.io/badge/uv-DE5D83?style=for-the-badge&logo=uv&logoColor=white" alt="uv package manager" />
 </p>
 
 </div>
